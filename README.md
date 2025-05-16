@@ -66,7 +66,7 @@ report G:\analyse\commons-cli G:\workspace\code-analyzer\Report-cli.txt
    - 类： 完整类名
    - 接口： 完整接口名
 
-   **结构：**Java 包路径 + 类名
+   **结构：** Java 包路径 + 类名
 
 2. `方法统计`
 
