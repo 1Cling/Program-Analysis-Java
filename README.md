@@ -29,7 +29,7 @@
 1. 克隆项目到本地
 
 ```bash
-git clone [项目地址]
+git clone https://github.com/1Cling/java-code-analyzer.git
 cd code-analyzer
 ```
 2. 使用Maven编译项目
@@ -53,7 +53,7 @@ mvn package
 report G:\analyse\commons-cli G:\workspace\code-analyzer\Report-cli.txt
 ```
 
-![1747312261834](G:\workspace\code-analyzer\images\1747312261834.png)
+![1747312261834](.\images\1747312261834.png)
 
 ## 输出报告内容
 
