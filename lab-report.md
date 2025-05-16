@@ -255,9 +255,9 @@ org.apache.commons.cli.AlreadySelectedException 依赖于:
 
 **生成的各项结果：（部分）**
 
-![1747365597821](G:\workspace\code-analyzer\images\1747365597821.png)
+![1747365597821](https://github.com/1Cling/java-code-analyzer/blob/main/images/1747365597821.png)
 
-![1747365621721](G:\workspace\code-analyzer\images\1747365621721.png)
+![1747365621721](https://github.com/1Cling/java-code-analyzer/blob/main/images/1747365621721.png)
 
 ### 6.2 结果分析
 
