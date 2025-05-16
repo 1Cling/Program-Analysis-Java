@@ -53,7 +53,7 @@ mvn package
 report G:\analyse\commons-cli G:\workspace\code-analyzer\Report-cli.txt
 ```
 
-![1747312261834](.\images\1747312261834.png)
+![1747312261834](https://github.com/1Cling/java-code-analyzer/blob/main/images/1747312261834.png)
 
 ## 输出报告内容
 
