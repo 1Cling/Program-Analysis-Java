@@ -96,14 +96,14 @@ code-analyzer/
             └── cn/
                 └── cling/
                     └── analyzer/
-                        ├── Application.java    			      # 应用程序入口
-                        ├── core/              				      # 核心功能模块
+                        ├── Application.java    			  # 应用程序入口
+                        ├── core/              				  # 核心功能模块
                         │   ├── JavaSourceAnalyzer.java     # 源代码分析器
                         │   └── ReportGenerator.java        # 报告生成器
-                        ├── model/             				      # 数据模型
+                        ├── model/             				  # 数据模型
                         │   ├── ClassInfo.java              # 类信息模型
                         │   └── MethodInfo.java             # 方法信息模型
-                        └── util/              				      # 工具类
+                        └── util/              				  # 工具类
                             └── FileUtils.java              # 文件操作工具类
 ```
 
